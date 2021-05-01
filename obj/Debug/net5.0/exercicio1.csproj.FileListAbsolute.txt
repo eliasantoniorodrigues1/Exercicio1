@@ -1,0 +1,16 @@
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\exercicio1\bin\Debug\net5.0\exercicio1.exe
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\exercicio1\bin\Debug\net5.0\exercicio1.deps.json
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\exercicio1\bin\Debug\net5.0\exercicio1.runtimeconfig.json
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\exercicio1\bin\Debug\net5.0\exercicio1.runtimeconfig.dev.json
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\exercicio1\bin\Debug\net5.0\exercicio1.dll
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\exercicio1\bin\Debug\net5.0\ref\exercicio1.dll
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\exercicio1\bin\Debug\net5.0\exercicio1.pdb
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\exercicio1\obj\Debug\net5.0\exercicio1.csprojAssemblyReference.cache
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\exercicio1\obj\Debug\net5.0\exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\exercicio1\obj\Debug\net5.0\exercicio1.AssemblyInfoInputs.cache
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\exercicio1\obj\Debug\net5.0\exercicio1.AssemblyInfo.cs
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\exercicio1\obj\Debug\net5.0\exercicio1.csproj.CoreCompileInputs.cache
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\exercicio1\obj\Debug\net5.0\exercicio1.dll
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\exercicio1\obj\Debug\net5.0\ref\exercicio1.dll
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\exercicio1\obj\Debug\net5.0\exercicio1.pdb
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\exercicio1\obj\Debug\net5.0\exercicio1.genruntimeconfig.cache
